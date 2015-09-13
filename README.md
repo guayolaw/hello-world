@@ -1,15 +1,21 @@
-## Eduardo Herrera
-## Fall 2015
+# xkcd Password Generator
 
-Short URL: <http://notes.dwa15.com>
+## Live URL
+<http://eduardodejesushernandez.me>
 
-## Printing
-Use http://gitprint.com if you want to create .pdfs or printable versions of the notes.
+## Description
+Project for Creating Dynamic Websites
+
+## Demo
+<In Progress>
+
+## Details for teaching team
+No login required.
+
+NO DETAILS YET
 
 
-## Reporting issues
-Use Github's Issues section to report any issue with the notes. Examples of the kind of issues that may need reporting:
-+ Typos
-+ Code samples not working as described
-+ Broken or moved links
-+ Etc.
+## Outside code
+* Word list: http://www.paulnoll.com/Books/Clear-English/
+* Bootstrap: http://getbootstrap.com/
+* Bootstrap Theme: http://bootswatch.com/flatly/
